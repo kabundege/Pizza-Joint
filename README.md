@@ -2,6 +2,9 @@
 
 User interface for a pizza derivery App
 
+# Test It Out
+for this link [click here](https://zen-jang-9600fc.netlify.app/)
+
 ### Installation
 
 Follow these steps to test this application on your computer:
